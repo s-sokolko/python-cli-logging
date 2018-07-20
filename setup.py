@@ -13,7 +13,7 @@ def read(fname):
 
 setup(
     name="cli_logging",
-    version="0.0.1",
+    version="0.0.2",
     author="Stanislav Sokolko",
     author_email="s.sokolko@gmail.com",
     description=("Generating loggers from cli params"),
